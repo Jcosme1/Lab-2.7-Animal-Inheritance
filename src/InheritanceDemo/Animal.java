@@ -11,6 +11,9 @@ public class Animal {
         this.numberOfLegs = numberOfLegs;
         this.diet = diet;
     }
+//    public Animal(){
+//
+//    }
 
     public boolean isBeingDangerous() {
         return beingDangerous;
